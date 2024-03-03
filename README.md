@@ -1,6 +1,8 @@
 <H3>Enter Name: Nithishwar S</H3>
 <H3>Enter Register No: 212221230071</H3>
 <H3>Experiment: 02</H3>
+<H3>Date: 03/03/2024</H3>
+
 <h1 align =center>Implementation of Exact Inference Method of Bayesian Network</h1>
 
 ## Aim:
